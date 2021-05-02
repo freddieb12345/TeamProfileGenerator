@@ -1,4 +1,4 @@
-TeamProfileGenerator                    [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)]
+TeamProfileGenerator                    ![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)
 
 Description
     - The motivation behind this project is to create a command line application that allows a Team leader to input information about their team into it, and then creates a HTML file with all this info. 
