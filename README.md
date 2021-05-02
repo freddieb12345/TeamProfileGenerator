@@ -1,4 +1,4 @@
-TeamProfileGenerator                    ![alt text](images/MIT.svg)
+TeamProfileGenerator                    [![license](images/MIT.svg)]
 
 Description
     - The motivation behind this project is to create a command line application that allows a Team leader to input information about their team into it, and then creates a HTML file with all this info. 
